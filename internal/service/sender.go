@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/Dreker052/email-delivery-service.git/internal/config"
+	"github.com/Dreker052/email-delivery-service/internal/config"
 	"gopkg.in/gomail.v2"
 )
 

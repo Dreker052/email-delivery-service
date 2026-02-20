@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/Dreker052/email-delivery-service.git/internal/config"
-	"github.com/Dreker052/email-delivery-service.git/internal/service"
+	"github.com/Dreker052/email-delivery-service/internal/config"
+	"github.com/Dreker052/email-delivery-service/internal/service"
 	"github.com/hibiken/asynq"
 )
 
